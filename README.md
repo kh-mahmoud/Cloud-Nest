@@ -63,12 +63,6 @@ NEXT_APP_APPWRITE_KEY=   <br/>
 npm run dev
 ```
 Now, open your browser and go to http://localhost:3000
-
----
-## 🔗  Experience it live
-
-🌍 Live Demo → https://cloud-nest-indol.vercel.app  
-
-
+ 
 
 Give it a ⭐ and start organizing your files ! 🔥💾
